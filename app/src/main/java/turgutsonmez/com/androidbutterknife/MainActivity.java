@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
   @BindView(R.id.btnTıklaBana)
 
+
+
   Button btnTıklaBana;
 
 
